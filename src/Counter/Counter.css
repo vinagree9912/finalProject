@@ -1,0 +1,9 @@
+.Counter{
+    color: linen;
+    margin: 20px;
+    position: relative;
+    top: -120px; left: 130px;
+    font-size: 100px;
+    font-family: monospace;
+    font-weight: 50;
+}

@@ -1,0 +1,15 @@
+.CounterColumns{
+    color: white;
+    font-weight: 200;
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    text-align: center;
+    width: 6em;
+    font-size: 80px;
+
+}

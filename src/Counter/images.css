@@ -1,0 +1,9 @@
+.images{
+    width: 100px;
+    height: 100px;
+    border: #DFBF53 3px solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

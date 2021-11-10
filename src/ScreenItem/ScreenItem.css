@@ -1,0 +1,12 @@
+.ScreenItem {
+    color: yellow;
+    margin: 20px;
+    position: relative;
+    top: 20px; left: 50px;
+    font-size: 100px;
+    font-family: monospace;
+    font-weight: 50;
+}
+
+
+
